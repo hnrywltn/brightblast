@@ -26,7 +26,7 @@ Copyright 2025
     - Breadcrumb
     - Newsletter popup
 
-04. Layout 
+04. Layout
     - Hero
     - Category
     - Product
@@ -205,6 +205,9 @@ Copyright 2025
 /* mixing */ /* variables */
 /* components ( Import components ) */
 /* common */
+
+
+
 body {
   font-family: "Poppins", sans-serif;
   font-size: 15px;
